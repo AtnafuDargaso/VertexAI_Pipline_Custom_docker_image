@@ -1,0 +1,9 @@
+kfp>=2.0.0
+google-cloud-aiplatform
+pandas
+numpy
+scikit-learn
+joblib
+google-cloud-storage
+gcsfs
+streamlit
